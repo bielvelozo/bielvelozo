@@ -37,11 +37,11 @@ Atualmente, estou me dedicando ao estudo do desenvolvimento Front-end. Estou con
 ##
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=bielvelozo&show_icons=true&layout=compact&theme=gotham" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bielvelozo&show_icons=true&layout=compact&theme=gotham" />
   </a>
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielvelozo&layout=compact&theme=gotham">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielvelozo&layout=compact&theme=gotham">
   </a>
 
