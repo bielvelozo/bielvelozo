@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Gabriel Velozo</strong>
 
-<img height="500" align="right" src="https://media2.giphy.com/media/FzO7hiXknGUi7UXGAg/giphy.webp?cid=ecf05e478dlu69hkb102kp9gewq3e5men1x0485xenku24gm&ep=v1_stickers_search&rid=giphy.webp&ct=s"/>
+<img height="300" align="right" src="https://media2.giphy.com/media/FzO7hiXknGUi7UXGAg/giphy.webp?cid=ecf05e478dlu69hkb102kp9gewq3e5men1x0485xenku24gm&ep=v1_stickers_search&rid=giphy.webp&ct=s"/>
 
 <p align="left"  width="30px"> 
 Atualmente, estou me dedicando ao estudo do desenvolvimento Front-end. Estou constantemente em busca de oportunidades para aprender novos conceitos e aprimorar minhas habilidades de programação.
@@ -35,15 +35,13 @@ Atualmente, estou me dedicando ao estudo do desenvolvimento Front-end. Estou con
 
 
 ##
-<p>
+
   <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=bielvelozo&show_icons=true&layout=compact&theme=gotham" />
   </a>
-</p>
 
-<p>
+
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielvelozo&layout=compact&theme=gotham">
   </a>
-</p>
 
