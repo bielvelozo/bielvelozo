@@ -2,9 +2,7 @@
 
 ## Hey, I'm Gabriel 👋
 
-I'm a full stack developer who loves building things that make everyday life a little easier. Most of my days go into web apps, and lately I've been having a lot of fun building AI agents with Claude that take small chores off my plate.
-
-When I'm not coding, I'm probably playing guitar, which is why some of my side projects end up mixing code and music. 🎸
+I'm a full stack developer who loves building things that make everyday life a little easier. Right now I'm focused on deepening my knowledge to build secure and scalable systems.
 
 ## Stack
 
@@ -12,7 +10,6 @@ When I'm not coding, I'm probably playing guitar, which is why some of my side p
 - **Back end:** Node.js, Express, GraphQL (Apollo), Prisma, Drizzle, .NET 9 / C#
 - **Data:** MySQL, PostgreSQL, MongoDB, SQLite (D1)
 - **Infra:** AWS (S3, SQS), Terraform, Docker, Cloudflare (Workers, Pages), Sentry
-- **AI:** Claude Agent SDK, Vercel AI SDK, MCP, Claude Code with skills and AGENTS.md
 
 ## Say hi
 
