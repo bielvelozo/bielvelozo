@@ -1,26 +1,33 @@
-## Olá devs ✌️, meu nome é <strong>Gabriel Velozo</strong>
+## Oi, eu sou o Gabriel Velozo 👋
 
-<img height="300" align="right" src="https://media2.giphy.com/media/FzO7hiXknGUi7UXGAg/giphy.webp?cid=ecf05e478dlu69hkb102kp9gewq3e5men1x0485xenku24gm&ep=v1_stickers_search&rid=giphy.webp&ct=s"/>
+Desenvolvedor full stack com 3 anos em produto de e-commerce em produção e construtor de agentes de IA que fazem trabalho de verdade sozinhos. No dia a dia: Next.js, React, Node.js e TypeScript no front e no back, .NET/C# quando a API pede, e Claude (Agent SDK, Vercel AI SDK, MCP) quando o problema pede um agente.
 
-<p align="left"  width="30px"> 
-Atualmente, estou me dedicando ao estudo do desenvolvimento Full Stack. Estou constantemente em busca de oportunidades para aprender novos conceitos e aprimorar minhas habilidades de programação.
-</p>
+Gosto de spec antes de código, de um portão humano antes de qualquer coisa que escreva em produção e de medir se o agente entregou mesmo.
 
-## Entre em contato: 
+📍 Matão, SP · remoto · cursando ADS na Fatec Taquaritinga
 
+## Projetos em destaque
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [**Whis**](https://github.com/bielvelozo/whis) | Assistente pessoal que vive na bandeja do Windows e guarda a memória num vault do Obsidian: paleta de comandos, daily em slides, jornal da manhã, reuniões da Granola via MCP e uma caçada de vagas e freelas que lê 25+ fontes, faz a triagem e deixa a proposta pronta. | Python · Claude Agent SDK · MCP · Playwright |
+| [**Lumen**](https://github.com/bielvelozo/lumen) | Pergunte ao seu negócio em português ("quanto vendi em maio?") e receba o número exato, calculado ao vivo no seu banco. O modelo nunca escreve SQL: só escolhe entre funções de consulta parametrizadas e somente leitura. | TypeScript · Node.js · Vercel AI SDK · PostgreSQL |
+| [**Renovo Hub**](https://github.com/bielvelozo/renovo-hub) | PWA das escalas do ministério de louvor Renovo Music: equipe, repertório com tom, letras, modo culto offline e notificações push, com custo zero de hospedagem. | React · Cloudflare Workers · D1 |
+| [**GT-1 MIDI Bridge**](https://github.com/bielvelozo/gt1-midi-bridge) | Transforma a pedaleira Boss GT-1 em controladora MIDI para plugins e DAWs, lendo o estado dela por SysEx e emitindo Program Change e Control Change numa porta virtual. | Python · MIDI · SysEx |
+
+## Stack
+
+- **Front-end:** Next.js, React, TypeScript, PWA, Web Workers
+- **Back-end:** Node.js, Express, GraphQL (Apollo), Prisma, Drizzle, .NET 9 / C#
+- **Dados:** MySQL, PostgreSQL, MongoDB, SQLite (D1)
+- **Infra:** AWS (S3, SQS), Terraform, Docker, Cloudflare (Workers, Pages), Sentry
+- **IA:** Claude Agent SDK, Vercel AI SDK, MCP, Claude Code com skills e AGENTS.md
+
+## Contato
 
 <p align="left">
-  <a href="mailto:gabrielvelozodev@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=monteiromatheus047@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/gabriel-velozo-751013253/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-monteiro-7a7340200/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5516991115489" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5516994512363&text="/></a>
-
-  <a href="https://www.instagram.com/gabriel_velozo__/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus_monteiro047/"/></a>
-</p>  
-
-
+  <a href="mailto:gabrielvelozodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-velozo-751013253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5516991115489"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/gabriel_velozo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
