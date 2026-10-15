@@ -4,12 +4,7 @@
 
 Sou desenvolvedor full stack e gosto de construir coisas que deixam o dia a dia um pouco mais fácil. No momento, estou focado em aprofundar meus conhecimentos para construir sistemas seguros e escaláveis.
 
-## Stack
-
-- **Front-end:** Next.js, React, TypeScript, PWA, Web Workers
-- **Back-end:** Node.js, Express, GraphQL (Apollo), Prisma, Drizzle, .NET 9 / C#
-- **Dados:** MySQL, PostgreSQL, MongoDB, SQLite (D1)
-- **Infra:** AWS (S3, SQS), Terraform, Docker, Cloudflare (Workers, Pages), Sentry
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Um gato digitando furiosamente num notebook" />
 
 ## Bora conversar
 
